@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(199, 199, 206);
+    
+
+}
+.first-ul {
+    display: flex;
+    justify-content: right;
+
+}
+
+.first-ul li {
+    list-style: none;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.btn-1 {
+    width: 90px;
+    height: 40px;
+    background-color: rgb(49, 20, 117);
+    color: white;
+}
+
+.img-1 {
+   
+    position:absolute;
+    top:35px;
+    left:150px;
+}
+
+   
+.img-2 {
+    float: right;
+}
+
+.para-1 {
+    width: 1200px;
+    
+}
+
+.btn-2 {
+    font-size: 15px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rgb(49, 20, 117);
+    color: rgb(142, 138, 138);
+}
+
+a {
+    color: rgb(131, 133, 135);
+}
+
+h2 {
+   
+    font-size: 70px;
+     font-style: oblique; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: rgb(49, 20, 117);
+
+}
+
+.para-2 {
+
+    color: rgb(139, 141, 142);
+    font-size: 25px;
+    font-style: oblique; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+.buttons input {
+    width: 300px;
+}
+
+input {
+    height: 50px;
+}
+
+.buttons button {
+    width: 100px;
+}
+
+.btn-3 {
+    height: 50px;
+    background-color: rgb(49, 20, 117);
+    color: rgb(188, 182, 182);
+}
+
+.para-2 {
+    font-size: 20px;
+    font-style: normal;
+    color: rgb(105, 103, 103);
+}
+
+#last {
+    margin-top: 160px;
+}
+
+.third-container ul {
+    display: flex;
+}
+
+.third-container li {
+    list-style: none;
+    padding: 10px;
+}
+
+.whole {
+    position: absolute;
+    left: 80px;
+}
